@@ -15,3 +15,13 @@ Indian start-up funding was not severely impacted by the COVID-19 pandemic
 1. What was the trend of start-up funding during the COVID-19 pandemic (2020-2021)?
 1. Which start-up sectors received the most funding during the COVID-19 pandemic?
 1. What was the total amount funding received each year before and after the COVID-19 pandemic?
+
+# Datasets
+Download the [India Startup Funding.zip](https://github.com/CalyGit/India-Startups-Funding/blob/main/Datasets/India%20Startup%20Funding.zip)
+## Importing python Libraries
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
