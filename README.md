@@ -17,11 +17,12 @@ Indian start-up funding was not severely impacted by the COVID-19 pandemic
 1. What was the total amount funding received each year before and after the COVID-19 pandemic?
 
 # Datasets
-Download [India Startup Funding.zip](https://github.com/CalyGit/India-Startups-Funding/raw/main/Datasets/India%20Startup%20Funding.zip)
+Download India Startup Funding.zip [here](https://github.com/CalyGit/India-Startups-Funding/raw/main/Datasets/India%20Startup%20Funding.zip).
 ## Importing python Libraries
 ```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+%matplotlib inline
 ```
