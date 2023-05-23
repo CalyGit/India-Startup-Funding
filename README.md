@@ -1,13 +1,12 @@
-# India-Startup-Funding
+# Unpacking the Indian Startup Ecosystem: An Analysis of Funding Trends from 2018-2021
 # Introduction
 In this project, we are going to analyze the funding received by start-ups in India from 2018 to 2021. Our goal is to investigate the Indian start-up ecosystem and propose the best course of action for our team's venture into this market.
 # Hypothesis
-Impact of the COVID-19 Pandemic on the start-up ecosystem in India
 ## Null Hypothesis
-Indian start-up funding was severely impacted by the COVID-19 pandemic.
+There is no difference in the funding received by start-ups in different sectors.
 
 ## Alternative Hypothesis
-Indian start-up funding was not severely impacted by the COVID-19 pandemic
+There is significant difference in the funding received by start-ups in different sectors.
 
 # Research Questions Formed
 1. What was the trend of start-up funding in India before the occurrence of the COVID-19 pandemic (2018-2019)?
