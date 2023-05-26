@@ -1,6 +1,6 @@
 # Unpacking the Indian Startup Ecosystem: An Analysis of Funding Trends from 2018-2021
 # Introduction
-In this project, we are going to analyze the funding received by start-ups in India from 2018 to 2021. Our goal is to investigate the Indian start-up ecosystem and propose the best course of action for our team's venture into this market.
+In this project, we are going to analyze the funding received by start-ups in India from `2018` to `2021`. Our goal is to investigate the Indian start-up ecosystem and propose the best course of action for our team's venture into this market.
 # Hypothesis
 ## Null Hypothesis
 There is no difference in the funding received by start-ups in different sectors.
