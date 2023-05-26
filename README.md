@@ -9,11 +9,10 @@ There is no difference in the funding received by start-ups in different sectors
 There is significant difference in the funding received by start-ups in different sectors.
 
 # Research Questions Formed
-1. What was the trend of start-up funding in India before the occurrence of the COVID-19 pandemic (2018-2019)?
-1. Which start-up sectors received the most funding before the pandemic?
-1. What was the trend of start-up funding during the COVID-19 pandemic (2020-2021)?
-1. Which start-up sectors received the most funding during the COVID-19 pandemic?
-1. What was the total amount funding received each year before and after the COVID-19 pandemic?
+1. What was the trend of start-up funding in India in 2018-2021?
+1. Which start-up sectors received the most funding ?
+1. What was the trend of start-up funding during the COVID-19 pandemic (2020-2021) ?
+1. What was the total amount funding received ?
 
 # Datasets
 Download `India Startup Funding.zip` [here](https://github.com/CalyGit/India-Startups-Funding/raw/main/Datasets/India%20Startup%20Funding.zip).
